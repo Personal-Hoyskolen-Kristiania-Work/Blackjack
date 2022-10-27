@@ -30,6 +30,8 @@ namespace Blackjack {
             // preapare _gamedeck
             GenerateDeck();
             Shuffle();
+            Shuffle();
+            Shuffle();
             // draw player then dealers first two cards
             PlayerDrawCard();
             PlayerDrawCard();
